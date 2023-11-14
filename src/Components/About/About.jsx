@@ -23,7 +23,7 @@ export const About =()=>{
                 <h2>Front Developer</h2>
                 <p>A successful website does three things: It attracts the right kinds of visitors. Guides them to the main services or products you offer</p>
                 <div className="tech">
-                    <h1 className="tech-title">Technoliges</h1>
+                    <h1 className="tech-title">Technologies Offered</h1>
                     <img src={html} alt="Html image" />
                     <img src={css} alt="css image" />
                     <img src={js} alt="javascript image" />
@@ -40,7 +40,7 @@ export const About =()=>{
                 <h2>Back-End Developer</h2>
                 <p>Frontend developers make the UI pretty; backend developers make it work. Together, we create magic. </p>
                 <div className="tech">
-                    <h1 className="tech-title">Technoliges</h1>
+                    <h1 className="tech-title">Technologies Offered</h1>
                     <img src={node} alt="node image" />
                     <img src={php} alt="php image" />
                     <img src={ejs} alt="express image" />
@@ -57,7 +57,7 @@ export const About =()=>{
                 A database is to an application what a brain is to a body - the central repository of knowledge and functionality.
                 </p>
                 <div className="tech">
-                    <h1 className="tech-title">Technoliges</h1>
+                    <h1 className="tech-title">Technologies Offered</h1>
                     <img src={mongo} alt="mongo image" />
                     <img src={sql} alt="sql image" />
                 </div>
