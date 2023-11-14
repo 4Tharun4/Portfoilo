@@ -44,6 +44,15 @@
     font-size: 0.9rem;
     font-weight: 200;
 }
+.tech>h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.tech>img{
+    height: 4rem;
+    margin-right: 6rem;
+}
 @media screen and (max-width:720px) {
     .skillbar-Text>p{
         font-size: 2vw;
@@ -61,4 +70,11 @@
     .skillbar-Text>h2{
         font-size: 5vw;
     }
+    .tech{
+        display: none;
+    }
 }
+
+
+        
+    
