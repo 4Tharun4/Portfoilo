@@ -13,7 +13,7 @@ export const Intro = ()=>{
      <p className="intro-quote">Web design is not just about creating pretty layouts. <br /> It's about understanding the marketing challenge behind your business</p>
      <Link><button className="hime-btn"><img src={hire} alt="hire-me" className="btn-img" />Hire Me</button></Link>
       </div>
-      <img src={bg} alt="bg-image" className="bg" />
+     
       </section>
     )
 }
